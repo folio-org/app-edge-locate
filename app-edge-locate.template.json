@@ -1,0 +1,26 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-platform-complete",
+      "version": "^1.0.0"
+    }
+  ],
+  "modules": [
+    {
+      "name": "edge-inventory",
+      "version": "latest"
+    },
+    {
+      "name": "edge-users",
+      "version": "latest"
+    },
+    {
+      "name": "edge-erm",
+      "version": "latest"
+    }
+  ]
+}
