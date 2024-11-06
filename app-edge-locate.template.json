@@ -17,10 +17,6 @@
     {
       "name": "edge-users",
       "version": "latest"
-    },
-    {
-      "name": "edge-erm",
-      "version": "latest"
     }
   ]
 }
