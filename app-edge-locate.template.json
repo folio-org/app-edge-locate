@@ -18,5 +18,6 @@
       "name": "edge-users",
       "version": "latest"
     }
-  ]
+  ],
+  "uiModules": []
 }
