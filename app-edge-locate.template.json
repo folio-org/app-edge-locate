@@ -16,11 +16,11 @@
   "modules": [
     {
       "name": "edge-inventory",
-      "version": "latest"
+      "version": "2.2.0"
     },
     {
       "name": "edge-users",
-      "version": "latest"
+      "version": "2.1.0"
     }
   ],
   "uiModules": []
