@@ -1,0 +1,23 @@
+{
+  "name": "app-edge-locate",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Application comprised of Locate edge modules-",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-platform-complete",
+      "version": "^1.0.0"
+    }
+  ],
+  "modules": [
+    {
+      "name": "edge-inventory",
+      "version": "2.3.0-SNAPSHOT.18"
+    },
+    {
+      "name": "edge-users",
+      "version": "2.2.0-SNAPSHOT.8"
+    }
+  ],
+  "uiModules": []
+}
