@@ -1,6 +1,6 @@
 {
   "name": "app-edge-locate",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "1.0.0-SNAPSHOT.1000",
   "description": "Application comprised of Locate edge modules-",
   "platform": "complete",
   "dependencies": [
