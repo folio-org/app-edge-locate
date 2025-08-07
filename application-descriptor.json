@@ -1,7 +1,7 @@
 {
-  "name": "${project.name}",
-  "version": "${project.version}",
-  "description": "${project.description}",
+  "name": "app-edge-locate",
+  "version": "1.0.0-SNAPSHOT.1000",
+  "description": "Application comprised of Locate edge modules-",
   "platform": "complete",
   "dependencies": [
     {
@@ -12,11 +12,11 @@
   "modules": [
     {
       "name": "edge-inventory",
-      "version": "latest"
+      "version": "2.3.0-SNAPSHOT.18"
     },
     {
       "name": "edge-users",
-      "version": "latest"
+      "version": "2.2.0-SNAPSHOT.8"
     }
   ],
   "uiModules": []
