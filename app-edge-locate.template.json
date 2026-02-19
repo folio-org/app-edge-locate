@@ -3,24 +3,24 @@
   "version": "${project.version}",
   "description": "${project.description}",
   "platform": "complete",
-  "dependencies": [
-    {
+  "dependencies":   [
+        {
       "name": "app-platform-complete",
       "version": "^2.1.0"
     },
-    {
+        {
       "name": "app-acquisitions",
       "version": "^1.0.0"
     }
   ],
-  "modules": [
-    {
-      "name": "edge-inventory",
-      "version": "latest"
-    },
-    {
+  "modules":   [
+        {
       "name": "edge-users",
-      "version": "latest"
+      "version": "2.1.1"
+    },
+        {
+      "name": "edge-inventory",
+      "version": "2.2.2"
     }
   ],
   "uiModules": []
