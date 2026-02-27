@@ -17,10 +17,6 @@
     {
       "name": "edge-inventory",
       "version": "latest"
-    },
-    {
-      "name": "edge-users",
-      "version": "latest"
     }
   ],
   "uiModules": []

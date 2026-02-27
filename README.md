@@ -7,7 +7,6 @@ Application descriptor repository for app-edge-locate.  Comprised entirely of ed
 | Module name                 |
 |:----------------------------|
 | `edge-inventory`            |
-| `edge-users`                |
 
 ## UI Modules
 

@@ -20,11 +20,6 @@
             "name": "edge-inventory",
             "version": "latest",
             "preRelease": "only"
-        },
-        {
-            "name": "edge-users",
-            "version": "latest",
-            "preRelease": "only"
         }
     ]
 }
